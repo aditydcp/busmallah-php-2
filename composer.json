@@ -1,0 +1,20 @@
+{
+    "name": "aditydcp/busmallah-php",
+    "description": "Bus Ticketing App using PHP, Firebase and REST API",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Aditydcp\\BusmallahPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aditya Cahyo",
+            "email": "aditydcp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "eelkevdbos/firebase-php": "dev-master"
+    }
+}
