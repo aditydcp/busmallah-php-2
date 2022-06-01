@@ -15,6 +15,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "eelkevdbos/firebase-php": "dev-master"
+        "kreait/firebase-php": "4.17.0"
     }
 }
